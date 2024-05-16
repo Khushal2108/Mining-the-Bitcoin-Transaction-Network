@@ -16,4 +16,4 @@
 <b>Endorsed Nodes:</b> We can explore how trust propogates through the netwrok by examining which nodes endorse other highly endorsed nodes forming a recursive netwrok of trust relationships.
 
 
-<h2>For further information about reuslts and conclusion, please have a look on the Project Report</h2>
+<h2>For further information about reuslts and conclusion, please have a look at the Project Report</h2>
