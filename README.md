@@ -2,7 +2,7 @@
 
  The Bitcoin transaction network operates with in a decentralized
  system,where transactions are recorded on the blockchain ledger.
- This ecosystem is rich with intricate financial interactions.Our
+ This ecosystem is rich with intricate financial interactions. This
  study takes a deep dive into understanding this network,focusing
  on key elements like its structure, identifying communities,and
  using spectral clustering,and identifying the most endorsed nodes.
